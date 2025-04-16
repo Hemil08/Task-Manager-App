@@ -1,4 +1,4 @@
-# Full-Stack To-Do List App (Django + React)
+# Full-Stack Task Manager/ To-Do List App (Django + React)
 
 A robust and user-friendly To-Do List application built with Django and React, designed to help users efficiently manage their tasks and stay organized. It incorporates secure JWT authentication, enabling personalized task management for each user.
 
